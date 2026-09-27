@@ -172,7 +172,7 @@ export default function Layout() {
                 <ul className="mt-3 space-y-2 text-ink-faint dark:text-paper/50">
                   <li><Link to="/privacy" className="hover:text-ink dark:hover:text-paper">Privacy</Link></li>
                   <li><Link to="/terms" className="hover:text-ink dark:hover:text-paper">Terms</Link></li>
-                  <li><a href="mailto:hello@tempo.example.com" className="hover:text-ink dark:hover:text-paper">Contact</a></li>
+                  <li><Link to="/contact" className="hover:text-ink dark:hover:text-paper">Contact</Link></li>
                 </ul>
               </div>
             </div>

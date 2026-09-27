@@ -7,6 +7,7 @@ import HowItWorks from './pages/HowItWorks'
 import FAQ from './pages/FAQ'
 import Privacy from './pages/Privacy'
 import Terms from './pages/Terms'
+import Contact from './pages/Contact'
 import Settings from './pages/Settings'
 import NotFound from './pages/NotFound'
 
@@ -21,6 +22,7 @@ export default function App() {
         <Route path="/faq" element={<FAQ />} />
         <Route path="/privacy" element={<Privacy />} />
         <Route path="/terms" element={<Terms />} />
+        <Route path="/contact" element={<Contact />} />
         <Route path="/settings" element={<Settings />} />
         <Route path="*" element={<NotFound />} />
       </Route>

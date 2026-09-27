@@ -50,11 +50,7 @@ export default function Terms() {
         <section>
           <h2 className="font-display text-xl text-ink dark:text-paper">Contact</h2>
           <p className="mt-2">
-            Questions can be sent to{' '}
-            <a href="mailto:hello@tempo.example.com" className="text-signal underline underline-offset-2">
-              hello@tempo.example.com
-            </a>
-            .
+            Questions can be sent through the <a href="/contact" className="text-signal underline underline-offset-2">Contact page</a>.
           </p>
         </section>
       </div>
