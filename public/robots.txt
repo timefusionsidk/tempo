@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tempo-eight-sepia.vercel.app/sitemap.xml
+Sitemap: https://tempo.timefusionsidk.com/sitemap.xml
